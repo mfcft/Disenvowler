@@ -4,8 +4,9 @@
 Small project I did a few years ago for fun when starting out!
 
 
-##### Test Example
+### Test Example
 
-**INPUT:** "all those who believe in psychokinesis raise my hand"
+**INPUT:** "all those who believe in psychokinesis raise my hand" 
+
 **OUTPUT:** Consonantes: llthswhblvnpsychknssrsmyhnd
             Vogais: aoeoeieeioieiaiea
