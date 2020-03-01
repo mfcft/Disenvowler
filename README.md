@@ -9,5 +9,4 @@ Small project I did a few years ago for fun when starting out!
 **INPUT:** "all those who believe in psychokinesis raise my hand" 
 
 **OUTPUT:** Consoantes: llthswhblvnpsychknssrsmyhnd
-
             Vogais: aoeoeieeioieiaiea
